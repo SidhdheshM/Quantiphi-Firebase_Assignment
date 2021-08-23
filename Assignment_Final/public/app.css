@@ -1,0 +1,42 @@
+body {
+    padding-top: 3.5rem;
+  }
+  
+  .bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: left;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+  
+  #submitBtn{
+    margin-top: 15px;
+    display: flex;
+    align-content: center;
+  }
+
+  #add{
+    margin-top: 3.5px;
+    position: absolute;
+    text-align: center; 
+  }
+
+  h4{
+    color: blue;
+    display: flex;
+    align-content: flex-end;
+  }
+
+.btn btn-secondary{
+  position: relative;
+  text-align-last: justify;
+  margin-left: 50px;
+}
